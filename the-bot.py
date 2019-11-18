@@ -1,3 +1,4 @@
+#!/home/nathan/Lukes-Timesheet/venv/bin/python3.6
 import discord
 from the_logic import *
 
