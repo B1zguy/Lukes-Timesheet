@@ -3,7 +3,7 @@ from pprint import pprint
 from functional_functions import *
 
 #### Config/Init API Call ####
-token = '857e0a90cdedf0427b7c57175dec19eef0626b92cf717009ba3ada0b2bdcc500'
+token = ''
 base_url = 'https://my.tanda.co/api/v2'
 roster_endpoint = base_url + '/rosters/current'
 schedules_endpoint = base_url + '/schedules'
